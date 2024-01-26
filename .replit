@@ -1,0 +1,2 @@
+language = "python"
+run = "./repl.deploy python run -A main.py"
